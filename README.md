@@ -19,5 +19,3 @@ yarn build wonderful-work
 ```
 yarn lint my-noob-code
 ```
-
-# nongtiny
