@@ -2,24 +2,22 @@
 
 ## Project setup
 ```
-yarn install
+yarn install hello-boiz
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn serve delicious-pizza
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+yarn build wonderful-work
 ```
 
 ### Lints and fixes files
 ```
-yarn lint
+yarn lint my-noob-code
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 # nongtiny
